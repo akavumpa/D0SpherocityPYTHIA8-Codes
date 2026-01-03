@@ -1,0 +1,17 @@
+# ROOT / HEP
+*.root
+*.pcm
+*.so
+*.o
+
+# Outputs
+output/
+results/
+logs/
+plots/
+
+# OS / editors
+*~
+*.swp
+.vscode/
+.idea/
